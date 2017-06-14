@@ -24,6 +24,6 @@ ie. don't try to login on phishing.etc/github (some github phishing page) with y
 Note that git-hub.com and github.com are two different domains. :D
 
 
-This page will be updated...
-keep coming here, make yourself at home. And of course, feel free to contribute.
+#### Note: This page will be updated...
+keep coming here, make yourself at home. And of course, feel free to contribute. Bookmark Now!
 [Hacking Tutorials](github.com/feat7/hacking-tutorials)
