@@ -19,6 +19,7 @@ Here is simple html form
   Username:
   <input type="text" name="username"/>
   <input type="password" name="password"/>
+  <input type="submit" value="Submit"/>
 </form>
 ```
 
@@ -40,5 +41,6 @@ echo 'Your username and password is stored in our database. Change it soon!';
 ```
 
 Done. Pretty easy!
+##### I didn't test the code, I wrote it directly. If you see some problem there, please inform.
 
 #### Note: This tutorial for educational purpose don't use it for illegal purposes.
